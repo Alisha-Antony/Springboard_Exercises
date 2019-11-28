@@ -2,7 +2,7 @@
 
 1. JSON exercise
 
-2. What is the True Normal Human Body Temperature?
+2. Inferential Statistics Exercise I - What is the True Normal Human Body Temperature?
 
-3. Examining Racial Discrimination in the US Job Market
+3. Inferential Statistics Exercise II - Examining Racial Discrimination in the US Job Market
 
