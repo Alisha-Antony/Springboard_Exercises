@@ -9,3 +9,5 @@
 4. Inferential Statistics Exercise III - Hospital Readmissions Data Analysis and Recommendations for Reduction
 
 5. Machine Learning I - Linear Regression Using Boston Housing Data Set
+
+6. Machine Learning II - Heights and Weights Using Logistic Regression
