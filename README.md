@@ -11,3 +11,5 @@
 5. Machine Learning I - Linear Regression Using Boston Housing Data Set
 
 6. Machine Learning II - Heights and Weights Using Logistic Regression
+
+7. Machine Learning III - Predicting Movie Ratings from Reviews Using Naive Bayes
