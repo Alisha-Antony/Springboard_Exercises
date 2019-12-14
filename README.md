@@ -13,3 +13,5 @@
 6. Machine Learning II - Heights and Weights Using Logistic Regression
 
 7. Machine Learning III - Predicting Movie Ratings from Reviews Using Naive Bayes
+
+8. Machine Learning IV - Customer Segmentation Using Clustering
